@@ -1,0 +1,26 @@
+/* Colors */
+
+$background: red;
+$nav_background: yellow;
+$nav_font: blue;
+$nav_hover: green;
+
+
+/* General */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: $background;
+}
+
+/* Navigation */
+
+nav {
+  background: $nav_background;
+  width: 100%;
+  height: 75px;
+}

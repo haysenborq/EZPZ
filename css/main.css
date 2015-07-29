@@ -1,0 +1,16 @@
+/* Colors */
+/* General */
+* {
+  margin: 0;
+  padding: 0; }
+
+body {
+  background: red; }
+
+/* Navigation */
+nav {
+  background: yellow;
+  width: 100%;
+  height: 75px; }
+
+/*# sourceMappingURL=main.css.map */
